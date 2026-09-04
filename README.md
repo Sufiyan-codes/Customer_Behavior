@@ -65,7 +65,7 @@ Built an interactive dashboard (`customer_behavior.pbix`) with filters for Subsc
 ![Dashboard - Female, Clothing, Express](assets/Female_filtered.png)
 
 
-*The dashboard supports filtering by Subscriber Status, Gender, Category, and Shipping Type — all visuals update dynamically based on selected filters.*
+*The dashboard supports filtering by Gender, Category, and Shipping Type — all visuals update dynamically based on selected filters.*
 
 ## Project Structure
 
