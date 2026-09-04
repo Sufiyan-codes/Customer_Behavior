@@ -69,21 +69,19 @@ Built an interactive dashboard (`customer_behavior.pbix`) with filters for Subsc
 
 ## Project Structure
 
+```
 customer-shopping-behavior-analysis/
-├── data/
-│ └── customer_shopping_behavior.csv
-├── notebooks/
-│ └── Data_analysis.ipynb
-├── sql/
-│ └── customer_behavior.sql
-├── dashboard/
-│ └── customer_behavior.pbix
+├── customer_shopping_behavior.csv
+├── Data_analysis.ipynb
+├── customer_behavior.sql
+├── customer_behavior.pbix
 ├── assets/
-  └── Dashboard.png
-  └── Male_filtered.png
-  └── Female_filtered.png 
+│   ├── Dashboard.png
+│   ├── Male_filtered.png
+│   └── Female_filtered.png
 ├── requirements.txt
 └── README.md
+```
 
 
 ## How to Run
