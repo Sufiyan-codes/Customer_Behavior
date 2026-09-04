@@ -6,7 +6,7 @@ An end-to-end data analytics project examining customer purchase and sales behav
 
 To analyze customer shopping data and uncover trends in spending, discounts, subscriptions, and product performance, in order to answer key business questions around revenue drivers and customer segments.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** (pandas, SQLAlchemy, psycopg2) — data cleaning & loading
 - **PostgreSQL** — data storage and querying
@@ -41,7 +41,7 @@ Wrote 10 business-question queries against the `customer` table, including:
 - Repeat buyers (>5 purchases) vs subscription status
 - Revenue contribution by age group
 
-Full queries in [`customer_behavior.sql`](./sql/customer_behavior.sql).
+Full queries in [`customer_behavior.sql`](./customer_behavior.sql).
 
 ### 3. Visualization (Power BI)
 Built an interactive dashboard (`customer_behavior.pbix`) with filters for Subscriber Status, Gender, Category, and Shipping Type — allowing users to slice revenue, sales, and customer metrics dynamically across these dimensions.
